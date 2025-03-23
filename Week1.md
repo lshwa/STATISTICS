@@ -295,7 +295,7 @@
 **독립변수(independent variable)**와 **종속변수(dependent variable)** 은 원인과 결과의 관계 
 
 <!-- Week1_5 이미지 추가 -->
-
+![alt text](images/Week1_5.jpeg)
 
 
 독립변수와 종속변수는 기본적으로 서로 상관관계를 맺고 있음. 
@@ -347,8 +347,9 @@
 척도란? : 측정하고자 하는 대상을 수치화하는 것에 사용되는 일종의 측정 도구
 
 <!-- Week1_6 이미지 추가 -->
+![alt text](images/Week1_6.jpeg)
 
-척돌의 분류
+척도의  분류
 
 **질적 척도(범주형 척도)**
 
@@ -363,7 +364,7 @@
 
 
 <!-- Week1_7 이미지 추가 -->
-
+![alt text](images/Week1_7.jpeg)
 
 
 
