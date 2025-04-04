@@ -306,7 +306,7 @@
 다음은 3언어에 대한 요약이다. 
 
 <!-- Week3_8 이미지 추가 -->
-
+![alt text](images/Week3_8.jpeg)
 
 
 * 번외 
@@ -325,7 +325,7 @@ ___
 다음은 데이터를 끌어오고 가공하여 분석하는 데이터 처리 프로세스이다.
 
 <!-- Week3_9 이미지 추가 -->
-
+![alt text](images/Week3_9.jpeg)
 
 
 **1.OLTP(On-Line Transaction Processing)**
@@ -392,11 +392,11 @@ ___
 일반적으로 머신러닝으로 모델링이나 데이터 분석 시에는 3개 이상의 테이블을 조합하여 가공해야함. 즉, **join**을 해야함. 아래의 모양을 보면 쉽게 이해할 수 있다.
 
 <!-- Week3_10 이미지 추가 -->
-
+![alt text](images/Week3_10.jpeg)
 
 
 <!-- Week3_11 이미지 추가 -->
-
+![alt text](images/Week3_11.jpeg)
 
 
 * ERD 관련 중요
@@ -410,7 +410,7 @@ ___
 **ERD(Entity Relationship Diagram)** : 각 테이블의 구성 정보와 테이블 간 관계를 도식화로 표현된 그림 형태로 예시는 아래 사진과 같다.
 
 <!-- Week3_12 이미지 추가 -->
-
+![alt text](images/Week3_12.jpeg)
 
 
 * ERD 의 핵심은 테이블 간 연결을 해주는 키 칼럼과 연결 관계를 의미하는 식별자이다. 
